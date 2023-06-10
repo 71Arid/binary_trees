@@ -2,8 +2,10 @@
 #include <stdlib.h>
 
 /**
- * parent - pointer to parent node of node to create
+ * binary_tree_node - creates binaruy tree node
+ * @parent: pointer to parent node of node to create
  * @value: value of the node to create
+ * Return: the node created
  */
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
