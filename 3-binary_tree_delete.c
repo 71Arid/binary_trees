@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * void brinary_tree_delete - deletes a binary tree
+ * brinary_tree_delete - deletes a binary tree
  * @tree: pointer to root of tree to delete
  * Return: NULL if tree is null
  */
